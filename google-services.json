@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:355002944487:android:398a0c8caa16f49c2d4b42",
+        "mobilesdk_app_id": "1:355002944487:android:d8228f137d64997c2d4b42",
         "android_client_info": {
-          "package_name": "br.com.saudetechama"
+          "package_name": "br.net.saudetechama"
         }
       },
       "oauth_client": [
