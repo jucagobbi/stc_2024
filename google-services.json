@@ -1,77 +1,40 @@
 {
   "project_info": {
-    "project_number": "265454616492",
-    "firebase_url": "https://stc-app-f8a39.firebaseio.com",
-    "project_id": "stc-app-f8a39",
-    "storage_bucket": "stc-app-f8a39.appspot.com"
+    "project_number": "355002944487",
+    "project_id": "saude-te-chama-a31df",
+    "storage_bucket": "saude-te-chama-a31df.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:265454616492:android:da5f6d588e273ae2188409",
+        "mobilesdk_app_id": "1:355002944487:android:398a0c8caa16f49c2d4b42",
         "android_client_info": {
-          "package_name": "com.saudetechama"
+          "package_name": "br.com.saudetechama"
         }
       },
       "oauth_client": [
         {
-          "client_id": "265454616492-1rjou9kmu4belc5mdd4b5kc3ll3si1jk.apps.googleusercontent.com",
+          "client_id": "355002944487-8nq3ao3gbs0tqoabbnboh8258nq25qmn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBn9v-jw-bb4kO09h_MEYrdIFX9XhdGMKc"
+          "current_key": "AIzaSyAxSwBMuYtEoXkDlsm0PRAFo6L0G_mgMeM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "265454616492-1rjou9kmu4belc5mdd4b5kc3ll3si1jk.apps.googleusercontent.com",
+              "client_id": "355002944487-8nq3ao3gbs0tqoabbnboh8258nq25qmn.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "265454616492-29554u2csah1jjbbb5k18rpc3ujjh3qg.apps.googleusercontent.com",
+              "client_id": "355002944487-9ovf2plqmhrpfe25qoqbje7tu2lep7pk.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.triasoftware.saudetechama"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:265454616492:android:8fa1c6fd3979b8c3188409",
-        "android_client_info": {
-          "package_name": "com.triasoftware.saudetechama"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "265454616492-1rjou9kmu4belc5mdd4b5kc3ll3si1jk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBn9v-jw-bb4kO09h_MEYrdIFX9XhdGMKc"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "265454616492-1rjou9kmu4belc5mdd4b5kc3ll3si1jk.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "265454616492-29554u2csah1jjbbb5k18rpc3ujjh3qg.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.triasoftware.saudetechama"
+                "bundle_id": "br.com.saudetechama"
               }
             }
           ]
